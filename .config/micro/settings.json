@@ -1,0 +1,4 @@
+{
+    "colorscheme": "one-dark",
+    "lsp.server": "python=pylsp,go=gopls,typescript=deno lsp={\"importMap\": \"./import_map.json\"}"
+}
