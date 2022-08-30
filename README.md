@@ -27,8 +27,6 @@ I suppose your here cause you wanna *yoink* my dots, sure go ahead go to [Instal
 
 Even if you are not just take a look through the gallery
 
-```
 <a id="gal"></a>
-```
 
 *insert pretty screenshots here*
