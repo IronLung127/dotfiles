@@ -23,6 +23,11 @@ Hwlo Thanks for dropping by :wave:
 These are my awsome config files (dotfiles, get it?!) 
 
 I suppose your here cause you wanna *yoink* my dots, sure [Installation](#inst) 
+<a id="keybinds"></a>
+
+## Keybinds ✍️
+
+These are the basic keybinds. Read through the `xmonad/xmonad.hs` file for more keybinds
 
 <a id="keybinds">
 
