@@ -29,4 +29,4 @@ Even if you are not just take a look through the gallery
 
 <a id="gal"></a>
 
-*insert pretty screenshots here*
+<img src='/screenshots/Screenshot.png'>
