@@ -4,7 +4,6 @@
 
 ##  Table of contents
 - [About ⁉️](#about)
-- [Workflow 🖨️](#workflow)
 - [Keybinds ✍️](#keybinds)
 - [Installation 🤵‍](#inst)
   - [Arch Install 🌇](#arch)
@@ -23,4 +22,11 @@ Hwlo Thanks for dropping by :wave:
 
 These are my awsome config files (dotfiles, get it?!) 
 
-I suppose your here cause you wanna *yoink* my dots, sure go [Installation](#inst) 
+I suppose your here cause you wanna *yoink* my dots, sure [Installation](#inst) 
+
+<a id="keybinds">
+
+|             Keybind        |           Function
+| -------------------------- | --------------------------- 
+| `Win + Shift + Enter`      | Launch alacritty 
+| `Win + Shift + Q`          | Close active window
