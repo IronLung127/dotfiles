@@ -40,3 +40,19 @@ These are the basic keybinds. Read through the `xmonad/xmonad.hs` file for more 
 | `Win + Space`              | Change layout
 | `Win + Shift + Space`      | Switched to default tilled layout
 | `Win + T`                  | Toggle tilling for window
+
+<a id="inst"></a>
+## Installation 🤵‍
+Alright, let's get to the main stuff.
+
+<a id="arch"></a>
+
+### For Arch Linux and it's derivatives (git is needed)
+
+BACKUPS OF YOUR NOT SO *CUTE* CONFIGS ARE MADE, SO YEA **JUST DO IT**
+
+```bash
+ $  git clone https://github.com/IronLung127/dotfiles
+ $ *more*
+ $ *work in progress*
+```
