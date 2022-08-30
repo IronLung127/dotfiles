@@ -30,3 +30,5 @@ I suppose your here cause you wanna *yoink* my dots, sure [Installation](#inst)
 | -------------------------- | --------------------------- 
 | `Win + Shift + Enter`      | Launch alacritty 
 | `Win + Shift + Q`          | Close active window
+| `Win + O`                  | Open Dmenu or application launcher
+| `Alt + Shift + Q`          | Quit XMonad
