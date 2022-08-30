@@ -4,7 +4,6 @@
 
 ##  Table of contents
 - [About ⁉️](#about)
-- [Gallery 📷](#gal)
 - [Workflow 🖨️](#workflow)
 - [Keybinds ✍️](#keybinds)
 - [Installation 🤵‍](#inst)
@@ -23,10 +22,4 @@
 Hwlo Thanks for dropping by :wave: 
 These are my awsome config files (dotfiles, get it?!) 
 
-I suppose your here cause you wanna *yoink* my dots, sure go ahead go to [Installation](#inst) and check out the gallery below  👇 
-
-Even if you are not just take a look through the gallery
-
-<a id="gal"></a>
-
-<img src='/screenshots/Screenshot.png'>
+I suppose your here cause you wanna *yoink* my dots, sure go ahead go to [Installation](#inst) 
