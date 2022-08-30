@@ -20,3 +20,15 @@
 - **polybar** 
 - *Insert more crap here*
 
+Hwlo Thanks for dropping by :wave: 
+These are my awsome config files (dotfiles, get it?!) 
+
+I suppose your here cause you wanna *yoink* my dots, sure go ahead go to [Installation](#inst) and check out the gallery below  👇 
+
+Even if you are not just take a look through the gallery
+
+```
+<a id="gal"></a>
+```
+
+*insert pretty screenshots here*
