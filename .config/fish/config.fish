@@ -176,7 +176,8 @@ bind \cr "history | sed 's/^[^ ][^ ]* [^ ][^ ]* //' | fzf | bash"
 
 ## Run fastfetch if session is interactive
 if status --is-interactive && type -q fastfetch
-   wal -r ; /usr/bin/clear
+   # wal -r ; /usr/bin/clear
+   /usr/bin/cat /home/rugved/.cache/wal/sequences
    rxfetch
 # cat /home/rugved/.cache/wal/sequences
 end

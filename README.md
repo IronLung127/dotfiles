@@ -12,7 +12,7 @@
 
 
 <a id="about"></a>
-## Starring 
+## About 
 - **xmonad** (A thicc config) 
 - **dmenu**  (Totally not flexipatch)
 - **polybar** 
@@ -47,12 +47,13 @@ Alright, let's get to the main stuff.
 
 <a id="arch"></a>
 
-### For Arch Linux and it's derivatives (git is needed)
+### For Arch Linux and it's derivatives (git is needed) 🌇
 
 BACKUPS OF YOUR NOT SO *CUTE* CONFIGS ARE MADE, SO YEA **JUST DO IT**
 
 ```bash
- $  git clone https://github.com/IronLung127/dotfiles
+ $ git clone https://github.com/IronLung127/dotfiles
+ $ cd dotfiles/ 
  $ *more*
  $ *work in progress*
 ```

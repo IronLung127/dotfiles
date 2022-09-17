@@ -7,7 +7,7 @@ font="-fn Inconsolata-13"
 colors="-nb #2C323E -nf #9899a0 -sb #BF616A -sf #2C323E"
 
 selected="$(ps -a -u $USER | \
-            dmenu -i -p "process to kill:" \
+            dmenu -i -p "process to murder:" \
             $lines $font | \
             awk '{print $1" "$4}')"; 
 
