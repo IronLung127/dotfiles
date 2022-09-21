@@ -108,7 +108,7 @@ alias ip="ip -color"
 alias clear="/usr/bin/clear;rxfetch"
 
 # Replace some more things with better alternatives
-alias cat='bat --style header --style rules --style snip --style changes --style header'
+alias cat='bat'
 [ ! -x /usr/bin/yay ] && [ -x /usr/bin/paru ] && alias yay='paru'
 
 # Common use
@@ -134,6 +134,7 @@ alias egrep='egrep --color=auto'
 alias hw='hwinfo --short'                          # Hardware Info
 alias big="expac -H M '%m\t%n' | sort -h | nl"     # Sort installed packages according to size in MB
 alias gitpkg='pacman -Q | grep -i "\-git" | wc -l' # List amount of -git packages
+alias cmatrix='cmatrix -a -b -u 1.75'
 
 # Get fastest mirrors
 alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist"

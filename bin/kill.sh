@@ -14,7 +14,7 @@ selected="$(ps -a -u $USER | \
 if [[ ! -z $selected ]]; then
 
     answer="$(echo -e "Yes\nNo" | \
-            dmenu -i -p "$selected will be killed, are you sure?" \
+            dmenu -i -p "$selected will be murdered, are you sure?" \
             $lines $font )"
 
     if [[ $answer == "Yes" ]]; then
